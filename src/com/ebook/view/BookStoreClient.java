@@ -88,5 +88,5 @@ public class BookStoreClient {
 	        System.out.println("\n\tOrder Total:\t\t" + orderTotal);
 	        
 		}
-
+//test commit
 }
